@@ -20,9 +20,4 @@ public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
   }
-
-  public static Shuffleboard shuffle = new Shuffleboard();
-
-  public static boolean getFalse() {return false;}
-  public static boolean getTrue() {return true;}
 }
